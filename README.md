@@ -45,6 +45,6 @@ This project is a Python script that uses the `pywifi` module to scan for availa
 # Disclaimer
 This tool is intended for educational purposes only. Unauthorized use of this tool to access networks is illegal and unethical. Always obtain permission from the network owner before using this tool.
 # License
-This project is licensed under the GNU General Public License. See the LICENSE file for more details.
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
 # Contribute
 Contributions are welcome! Please fork this repository and submit a pull request.
