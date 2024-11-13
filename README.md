@@ -18,7 +18,7 @@ This project is a Python script that uses the `pywifi` module to scan for availa
 1. Prepare a text file containing a list of passwords (one per line), e.g., passwords.txt. Make changes for the file name in the program default password file name is 'rockyou.txt'.
 2. Run the script:
    ```bash
-   python wifi_attacker.py
+   python wifi_brute.py
 3. Follow the on-screen prompts to:
    - Scan for available WiFi networks.
    - Select a network to target.
